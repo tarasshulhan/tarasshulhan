@@ -1,7 +1,7 @@
 # Taras Shulhan
 ## ₿  Full Stack Web3 Developer and Crypto Enthusiast  ₿
 ### 💻  Bloom Tech Web Development Student  💻
-### I love technology, especially related to blockchain ₿ and fintech 🏧. I enjoy learning 🎓 and have great analytical and decision making skills 📊; good at accepting criticism and using it to improve 📈.I am interested in sec-ops 🛡️, automation 🏭, robotics 🤖, and the tokenization of physical goods 🪙. I enjoy gaming🕹️, cycling🚵, skiing⛷️, team sports⚽, martial arts🥋, and the outdoors in general⛰️. I like tinkering with all sorts of hardware 🪛, especially servers and mining rigs 🖥️.
+### I love technology, especially related to blockchain ₿ and fintech 🏧. I enjoy learning 🎓 and have great analytical and decision making skills 📊; good at accepting criticism and using it to improve 📈.I am interested in sec-ops 🛡️, automation 🏭, robotics 🤖, and the tokenization of physical goods 🪙. I enjoy gaming🕹️, cycling🚵, skiing⛷️, team sports⚽, martial arts🥋, and the outdoors in general⛰️. I like tinkering with all sorts of hardware 🗜️, especially servers and mining rigs 🖥️.
 ![giphy](https://user-images.githubusercontent.com/13146914/150218458-a07a02ba-f626-44fc-b0d9-a1d60ce11c41.gif)
 
 <!--
