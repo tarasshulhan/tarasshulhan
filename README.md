@@ -1,5 +1,5 @@
 # Taras Shulhan
-## ₿  Full Stack Web3 Developer and Crypto Enthusiast  ₿
+## Full Stack Web3 Developer and Crypto Enthusiast
 ### I love technology 📱, especially related to blockchain ₿ and fintech 🏧. I enjoy learning 🎓 and have great analytical and decision making skills 📊; good at accepting criticism and using it to improve 📈.I am interested in sec-ops 🛡️, automation 🏭, robotics 🤖, and the tokenization of physical goods 🪙. I enjoy gaming🕹️, cycling🚵, skiing⛷️, team sports⚽, martial arts🥋, and the outdoors in general⛰️. I like tinkering with all sorts of hardware 🗜️, especially servers and mining rigs 🖥️.
 
 <h3 align="left">Languages and Tools:</h3>
